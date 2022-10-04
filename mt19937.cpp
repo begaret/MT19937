@@ -16,7 +16,7 @@ MT19937::MT19937(int seed)
     seed_mt(seed);
 }
 
-// generates random positive 32-bit integer from 0 to 0x80000000
+// generates random 32-bit integer from 0 to 0x80000000
 int MT19937::random()
 {
     if (index >= N)
