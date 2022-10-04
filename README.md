@@ -1,4 +1,4 @@
-# MT19337
+# MT19937
 A C++ implementation of the **Mersenne Twister** pseudorandom number generator based on the [pseudocode on Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister#Pseudocode).
 
 All coefficients are as according to the MT19937-32 standard.
